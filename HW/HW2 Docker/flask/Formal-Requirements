@@ -1,0 +1,14 @@
+1:
+goal: Create easy to use version control that uses memes for merges
+non-goal: create a system which uses different mems for all git actions
+
+2:
+non-functional requirement 1: Security
+  functional requirements:
+    use secure login  
+    make ssh key to stop unauthorized users from making changes
+
+non-functional requirement 2: Management
+  fuctional requirements:
+    make sure requests are needed so incorrect code cannot be pushed without review
+    show changes made in new requests
