@@ -1,0 +1,12 @@
+1:
+As vanilla git power user I want to be able to easily see all history and contributions as well as be able to push, pull, and comit changes easily
+As a team lead onboarding an experienced GiggleGit user, I want to make GiggleGit as fast and efficient as possible
+2:
+I want my login to be secure and my data to be safe.
+Task: make login secure
+Tickets:
+ticket 1: Use OAuth authentication to log into GiggleGit
+ticket 2: Secure all login data
+
+3:
+This is a requirement. This is because it does not explain why it wants what it wants or how it would help.
